@@ -1,6 +1,5 @@
 puts 'How many dice?'
 number = gets.to_i
-rand = 0
 sum = 0
 
 counter = 5
