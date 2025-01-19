@@ -3,7 +3,7 @@ number = gets.to_i
 
 counter = 5
 while counter != 0
-  puts "rolling #{rand(6)+1}"
+  print "rolling #{rand(6)+1}"
   sleep 0.5
   counter = counter - 1
   system "cls"
