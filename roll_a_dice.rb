@@ -10,8 +10,6 @@ while counter != 0
   system "cls"
 end
 
-# С помощью мтеода целого числа times запускаем цикл, который заданное число раз
-# повторяет бросок кубика.
 number.times do
   rand = rand(6) + 1
   puts rand
