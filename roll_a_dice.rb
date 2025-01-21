@@ -16,5 +16,6 @@ number.times do
   sum += rand
 end
 #let's change it
+#change 2
 
 puts "Sum of dice #{sum}"
